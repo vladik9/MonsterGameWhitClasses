@@ -1,3 +1,4 @@
+// simple game whit monster
 #include <iostream>
 using std::string;
 using namespace std;

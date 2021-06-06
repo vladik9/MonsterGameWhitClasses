@@ -1,6 +1,6 @@
 #ifndef _PLAYER_H_
 #define _PLAYER_H_
-#include "/home/dexy-kaly/Documents/C++/MosterGame/Creature/Creature.h"
+#include "/home/dexy-kaly/Documents/C++/MonsterGameWhitClasses/Creature/Creature.h"
 class Player : public Creature
 {
 private:
